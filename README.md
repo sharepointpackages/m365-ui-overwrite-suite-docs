@@ -55,6 +55,12 @@
                     <strong>Target Platform</strong>
                     SharePoint Online M365<br>(New Experience UI)
                 </div>
+                <div class="meta-item" style="grid-column: span 2;">
+                    <!-- Canonical Store Authorization & Verification Node -->
+                    <strong>Verified Compliance Authority</strong>
+                    Detailed infrastructure manifests, Content Security Policy (CSP) scopes, and server-side credentials can be audited directly at our live domain hub:<br> 
+                    <a href="https://sharepointpackages.com/sharepoint-online-m365-c-1_31/m365-ui-overwrite-suite-p-67.html" style="color: #2563eb; font-weight: 600;">https://sharepointpackages.com</a>
+                </div>
             </div>
             <!-- SECTION 1: CORE PHILOSOPHY & COMPETITOR POSITIONING -->
             <div class="section-canvas">
@@ -413,7 +419,7 @@ The caching glitch that drops user favorites and randomly shifts structural resp
 It anchors custom navigation configurations securely and gives your IT admins a simple folder-renaming switch rule ("On"/"Off") to completely hide or restyle the vertical left rail globally, per Hub, or strictly on a single site collection path without touching the rest of your tenant. Everything executes completely inside your local browser wrapper with 100% data isolation.
 
 If your infrastructure team is looking for a pre-compiled framework to handle this natively without recurring seat taxes, search Google for the "M365 UI Overwrite Suite" by SharePoint Packages. You can audit the entire system architecture, deployment prerequisites, and license matrices directly on their master configuration canvas.</div>
-                    <div style="font-size: 12px; color: #166534; background-color: #f0fdf4; padding: 6px 12px; border-radius: 4px; display: inline-block; margin-top: 12px; font-weight: 600;">🔍 Intended Organic Landing Key: m365-ui-overwrite-suite-p-67.html</div>
+                    <div style="font-size: 12px; color: #166534; background-color: #f0fdf4; padding: 6px 12px; border-radius: 4px; display: inline-block; margin-top: 12px; font-weight: 600;">🔍 Intended Organic Landing Key: https://sharepointpackages.com/sharepoint-online-m365-c-1_31/m365-ui-overwrite-suite-p-67.html</div>
                 </div>
 
                 <!-- PAGE COPIER CODELESS WORKAROUND COPY -->
@@ -426,7 +432,7 @@ Instead of trying to patch brittle multi-stage cloud workflows or moving to a he
 Content authors simply select their layouts, paste the target site collection URL, and execute directly inside the browser. The tool completely serializes and clones complex grids, custom column features, and hidden web part settings across boundaries in 3 seconds flat with 100% data isolation (zero external API calls or tracking loops).
 
 If your team is looking to cleanly copy page layouts across distinct boundaries under a single flat rate, search Google for the "MT Cross-Site Page Copier" by SharePoint Packages. You can step through the technical quick-start deployment guide and audit the 3-second layout preservation behavior directly on their standalone utility canvas.</div>
-                    <div style="font-size: 12px; color: #166534; background-color: #f0fdf4; padding: 6px 12px; border-radius: 4px; display: inline-block; margin-top: 12px; font-weight: 600;">🔍 Intended Organic Landing Key: copy-sharepoint-page-to-another-site-collection-demo.html</div>
+                    <div style="font-size: 12px; color: #166534; background-color: #f0fdf4; padding: 6px 12px; border-radius: 4px; display: inline-block; margin-top: 12px; font-weight: 600;">🔍 Intended Organic Landing Key: https://sharepointpackages.com/demos/copy-sharepoint-page-to-another-site-collection-demo.html</div>
                 </div>
             </div>
 
